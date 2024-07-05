@@ -9,7 +9,7 @@
 - taoq-boot-system			            -- 常用的基础公用组件
   - [ ] taoq-boot-starter-log	      -- 提供日志记录功能
   - [ ] taoq-boot-starter-jpa			  -- 对 Spring Data JPA 的封装
-  - [ ] taoq-boot-starter-rbac		  -- 提供用户、用户组、角色、菜单管理功能
+  - [ ] taoq-boot-starter-rbac		  -- 提供用户、用户组、角色、菜单以及租户管理功能
   - [ ] taoq-boot-starter-sso	      -- 提供单点登录功能
   - [ ] taoq-boot-starter-system		-- 提供系统级&租户级字典、参数配置管理等基础功能
 - taoq-boot-extends			            -- 第三方扩展模块
